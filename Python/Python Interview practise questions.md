@@ -2,7 +2,7 @@ Here are some Python interview questions with their answers, ranging from basic 
 
 ### Basic
 **1. Question:**
-Write a function that takes a list of numbers and returns the sum.
+Write a function that takes a list of numbers and 
 
 **Answer:**
 
