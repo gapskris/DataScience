@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pricing Analysis and Optimization Web-Scraping Tool
 ## Description
 The Pricing Analysis and Optimization Web-Scraping Tool is designed to help businesses analyze and optimize product pricing using real-time market data and historical sales information. This tool provides insights into real-time market trends, price elasticity, and competitive positioning, enabling dynamic pricing strategies for maximized profitability and also with suggestions of improvemnets.
