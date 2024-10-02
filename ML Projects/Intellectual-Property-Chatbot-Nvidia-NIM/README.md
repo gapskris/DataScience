@@ -23,10 +23,6 @@ This project leverages **Streamlit** to create an interactive web application th
 
 1. **Clone the repository**:
 
-    ```bash
-    git clone https://github.com/milind2thakur/The-Grand-Complete-Data-Science-Materials.git
-    ```
-
 2. **Install the required dependencies**:
 
     ```bash
