@@ -1,9 +1,12 @@
 
-![chatbot_image](https://github.com/user-attachments/assets/2047402e-b52f-48f5-8e72-e51900927806)
 
 # **Intellectual Property Chatbot with NVIDIA-NIM Integration**
 
 This project leverages **Streamlit** to create an interactive web application that allows users to query **intellectual property (IP)** documents using **NVIDIA's AI embeddings** and chatbot APIs. The chatbot provides answers based on the content of PDF documents uploaded into the system.
+
+![chatbot_image](https://github.com/user-attachments/assets/2047402e-b52f-48f5-8e72-e51900927806)
+
+
 
 ## **Features**
 
