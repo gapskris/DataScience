@@ -1,6 +1,4 @@
-To emphasize certain parts of the text with **bold** formatting, we can strategically highlight important sections such as features, components, and commands. Here's an updated README with bold formatting and proper distinction between different parts of the content:
 
----
 
 # **Intellectual Property Chatbot with NVIDIA-NIM Integration**
 
