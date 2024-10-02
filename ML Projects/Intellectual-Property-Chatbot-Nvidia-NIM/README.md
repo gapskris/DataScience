@@ -1,4 +1,5 @@
 
+![chatbot_image](https://github.com/user-attachments/assets/2047402e-b52f-48f5-8e72-e51900927806)
 
 # **Intellectual Property Chatbot with NVIDIA-NIM Integration**
 
