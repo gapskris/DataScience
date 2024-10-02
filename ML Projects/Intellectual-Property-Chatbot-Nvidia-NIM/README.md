@@ -12,27 +12,3 @@ Document Similarity Search: Expands on results to show similar documents when a 
 Prerequisites
 Python 3.8+
 NVIDIA API Key for using the NVIDIA AI services
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/milind2thakur/The-Grand-Complete-Data-Science-Materials.git
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Set up the NVIDIA API key. Add your key in the .env file or directly in the environment variable in the code:
-python
-Copy code
-os.environ['NVIDIA_API_KEY'] = "your_nvidia_api_key_here"
-Usage
-Prepare the PDFs: Place your PDF files in the ./IP_PDF directory.
-Run the Streamlit App:
-bash
-Copy code
-streamlit run app.py
-Open your browser at http://localhost:8501 to interact with the chatbot.
-Key Components
-Document Embedding: Automatically processes PDFs using the PyPDFDirectoryLoader and splits them into smaller chunks for efficient retrieval and embedding using NVIDIAEmbeddings and FAISS.
-NVIDIA Chatbot: A chatbot that processes user questions and queries the document vectors for the most relevant response.
-Custom UI: Clean and user-friendly interface with responsive buttons, PDF thumbnails, and download options.
