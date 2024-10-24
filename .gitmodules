@@ -1,0 +1,3 @@
+[submodule "ML Projects/gpt2"]
+	path = ML Projects/gpt2
+	url = https://github.com/SinghJagpreet096/gpt2
